@@ -1,0 +1,1164 @@
+﻿++Solution 'FinalProjectPWIApp' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:FinalProjectPWIApp.sln
+++FinalProjectPWI
+i:{00000000-0000-0000-0000-000000000000}:FinalProjectPWI
+++Connected Services 
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:>959
+++Dependencies
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:>958
+++Properties
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\properties\
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\properties\
+++launchSettings.json
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\properties\launchsettings.json
+++serviceDependencies.json
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\properties\servicedependencies.json
+++wwwroot
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\
+++css
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\css\
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\
+++site.css
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\css\site.css
+++js
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\js\
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\unix\lib\
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\win\lib\
+++favicon.ico
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\favicon.ico
+++Areas
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\areas\
+++Controllers
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\controllers\
+++HomeController.cs
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\controllers\homecontroller.cs
+++PetListsController.cs
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\controllers\petlistscontroller.cs
+++Data
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\data\
+++Migrations
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\migrations\
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\data\migrations\
+++20230616221507_init.cs
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\migrations\20230616221507_init.cs
+++PetListDbContextModelSnapshot.cs
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\migrations\petlistdbcontextmodelsnapshot.cs
+++Models
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\models\
+++ErrorViewModel.cs
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\models\errorviewmodel.cs
+++PetList.cs
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\models\petlist.cs
+++Views
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\views\
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\scopedcss\views\
+++Home
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\views\home\
+++About.cshtml
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\views\home\about.cshtml
+++Index.cshtml
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\views\home\index.cshtml
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\views\petlists\index.cshtml
+++PetLists
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\views\petlists\
+++Create.cshtml
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\views\petlists\create.cshtml
+++Delete.cshtml
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\views\petlists\delete.cshtml
+++Details.cshtml
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\views\petlists\details.cshtml
+++Edit.cshtml
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\views\petlists\edit.cshtml
+++Shared
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\views\shared\
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\scopedcss\views\shared\
+++_Layout.cshtml
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\views\shared\_layout.cshtml
+++_LoginPartial.cshtml
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\views\shared\_loginpartial.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\views\_viewstart.cshtml
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\areas\identity\pages\_viewstart.cshtml
+++appsettings.json
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\appsettings.json
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\appsettings.json
+++Program.cs
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\program.cs
+++SQL Server Express LocalDB (Local) (ConnectionStrings:DefaultConnection)
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:>993
+++SQL Server Express LocalDB (Local) (ConnectionStrings:PetListDbContext)
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:>994
+++Analyzers
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:analyzers
+++Frameworks
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:frameworks
+++Packages
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:packages
+++serviceDependencies.local.json
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\properties\servicedependencies.local.json
+++site.js
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\js\site.js
+++bootstrap
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\
+++jquery
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\jquery\
+++jquery-validation
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\jquery-validation-unobtrusive\
+++Identity
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\areas\identity\
+++ApplicationDbContext.cs
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\data\applicationdbcontext.cs
+++PetListDbContext.cs
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\data\petlistdbcontext.cs
+++20230616221507_init.Designer.cs
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\migrations\20230616221507_init.designer.cs
+++_Layout.cshtml.css
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\views\shared\_layout.cshtml.css
+++appsettings.Development.json
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\appsettings.development.json
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\appsettings.development.json
+++MessagePackAnalyzer
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.18\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\microsoft.netcore.app
+++Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore (6.0.4)
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:>973
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.4)
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:>974
+++Microsoft.AspNetCore.Identity.UI (6.0.4)
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:>977
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.18)
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:>971
+++Microsoft.EntityFrameworkCore.Tools (6.0.18)
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:>975
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.14)
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:>976
+++Swashbuckle.AspNetCore (6.5.0)
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:>972
+++dist
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\jquery\dist\
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\jquery\license.txt
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++Pages
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\areas\identity\pages\
+++00000000000000_CreateIdentitySchema.cs
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\data\migrations\00000000000000_createidentityschema.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\data\migrations\applicationdbcontextmodelsnapshot.cs
+++jquery.js
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++00000000000000_CreateIdentitySchema.Designer.cs
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\data\migrations\00000000000000_createidentityschema.designer.cs
+++bootstrap.css
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++Secrets.json (Local)
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:>1002
+++Secrets.json (Local) dependency is detected
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:>1003
+++Images
+++lunaPC.jpg
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\img\lunapc.jpg
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\img\lunapc.jpg
+++NewFolder
+++Resources
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\properties\resources\
+++images
+++luna_shook.jpg
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\img\luna_shook.jpg
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\img\luna_shook.jpg
+++IMG
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\img\
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\img\
+++bin
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\
+++Debug
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\
+++net6.0
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\unix\lib\net6.0\
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\win\lib\net6.0\
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\
+++af
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\af\
+++ar
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ar\
+++az
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\az\
+++bg
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\bg\
+++bn-BD
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\bn-bd\
+++cs
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\cs\
+++da
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\da\
+++de
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\de\
+++el
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\el\
+++es
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\es\
+++fa
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\fa\
+++fi-FI
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\fi-fi\
+++fr
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\fr\
+++fr-BE
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\fr-be\
+++he
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\he\
+++hr
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\hr\
+++hu
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\hu\
+++hy
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\hy\
+++id
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\id\
+++is
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\is\
+++it
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\it\
+++ja
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ja\
+++ko
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ko\
+++ko-KR
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ko-kr\
+++ku
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ku\
+++lv
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\lv\
+++ms-MY
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ms-my\
+++mt
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\mt\
+++nb
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\nb\
+++nb-NO
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\nb-no\
+++nl
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\nl\
+++pl
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\pl\
+++pt
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\pt\
+++pt-BR
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\pt-br\
+++ro
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ro\
+++ru
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ru\
+++runtimes
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\
+++sk
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\sk\
+++sl
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\sl\
+++sr
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\sr\
+++sr-Latn
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\sr-latn\
+++sv
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\sv\
+++th-TH
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\th-th\
+++tr
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\tr\
+++uk
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\uk\
+++uz-Cyrl-UZ
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\uz-cyrl-uz\
+++uz-Latn-UZ
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\uz-latn-uz\
+++vi
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\vi\
+++zh-CN
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\zh-cn\
+++zh-Hans
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\zh-hans\
+++zh-Hant
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\zh-hant\
+++dotnet-aspnet-codegenerator-design.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+++FinalProjectPWI.deps.json
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\finalprojectpwi.deps.json
+++FinalProjectPWI.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\finalprojectpwi.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\finalprojectpwi.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\ref\finalprojectpwi.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\refint\finalprojectpwi.dll
+++FinalProjectPWI.exe
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\finalprojectpwi.exe
+++FinalProjectPWI.pdb
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\finalprojectpwi.pdb
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\finalprojectpwi.pdb
+++FinalProjectPWI.runtimeconfig.json
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\finalprojectpwi.runtimeconfig.json
+++FinalProjectPWI.staticwebassets.runtime.json
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\finalprojectpwi.staticwebassets.runtime.json
+++Humanizer.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\humanizer.dll
+++MessagePack.Annotations.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\messagepack.annotations.dll
+++MessagePack.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\messagepack.dll
+++Microsoft.AspNetCore.Cryptography.Internal.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.aspnetcore.cryptography.internal.dll
+++Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.aspnetcore.cryptography.keyderivation.dll
+++Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.aspnetcore.diagnostics.entityframeworkcore.dll
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.aspnetcore.identity.entityframeworkcore.dll
+++Microsoft.AspNetCore.Identity.UI.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.aspnetcore.identity.ui.dll
+++Microsoft.AspNetCore.Razor.Language.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.aspnetcore.razor.language.dll
+++Microsoft.Bcl.AsyncInterfaces.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.bcl.asyncinterfaces.dll
+++Microsoft.Build.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.build.dll
+++Microsoft.Build.Framework.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.build.framework.dll
+++Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.codeanalysis.analyzerutilities.dll
+++Microsoft.CodeAnalysis.CSharp.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.codeanalysis.csharp.dll
+++Microsoft.CodeAnalysis.CSharp.Features.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.codeanalysis.csharp.features.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.codeanalysis.csharp.workspaces.dll
+++Microsoft.CodeAnalysis.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.codeanalysis.dll
+++Microsoft.CodeAnalysis.Features.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.codeanalysis.features.dll
+++Microsoft.CodeAnalysis.Razor.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.codeanalysis.razor.dll
+++Microsoft.CodeAnalysis.Scripting.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.codeanalysis.scripting.dll
+++Microsoft.CodeAnalysis.Workspaces.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.codeanalysis.workspaces.dll
+++Microsoft.Data.SqlClient.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.data.sqlclient.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+++Microsoft.DiaSymReader.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.diasymreader.dll
+++Microsoft.DotNet.Scaffolding.Shared.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.dotnet.scaffolding.shared.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.entityframeworkcore.abstractions.dll
+++Microsoft.EntityFrameworkCore.Design.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.entityframeworkcore.design.dll
+++Microsoft.EntityFrameworkCore.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.entityframeworkcore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.entityframeworkcore.relational.dll
+++Microsoft.EntityFrameworkCore.SqlServer.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.entityframeworkcore.sqlserver.dll
+++Microsoft.Extensions.Caching.Memory.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.extensions.caching.memory.dll
+++Microsoft.Extensions.DependencyInjection.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.extensions.dependencyinjection.dll
+++Microsoft.Extensions.FileProviders.Embedded.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.extensions.fileproviders.embedded.dll
+++Microsoft.Extensions.Identity.Core.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.extensions.identity.core.dll
+++Microsoft.Extensions.Identity.Stores.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.extensions.identity.stores.dll
+++Microsoft.Identity.Client.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.identity.client.dll
+++Microsoft.IdentityModel.JsonWebTokens.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.identitymodel.jsonwebtokens.dll
+++Microsoft.IdentityModel.Logging.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.identitymodel.logging.dll
+++Microsoft.IdentityModel.Protocols.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.identitymodel.protocols.dll
+++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.identitymodel.protocols.openidconnect.dll
+++Microsoft.IdentityModel.Tokens.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.identitymodel.tokens.dll
+++Microsoft.NET.StringTools.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.net.stringtools.dll
+++Microsoft.OpenApi.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.openapi.dll
+++Microsoft.VisualStudio.Debugger.Contracts.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.visualstudio.debugger.contracts.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.core.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.entityframeworkcore.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.templating.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.utils.dll
+++Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.visualstudio.web.codegenerators.mvc.dll
+++Microsoft.Win32.SystemEvents.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\microsoft.win32.systemevents.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\win\lib\net6.0\microsoft.win32.systemevents.dll
+++Newtonsoft.Json.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\newtonsoft.json.dll
+++NuGet.Common.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\nuget.common.dll
+++NuGet.Configuration.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\nuget.configuration.dll
+++NuGet.DependencyResolver.Core.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\nuget.dependencyresolver.core.dll
+++NuGet.Frameworks.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\nuget.frameworks.dll
+++NuGet.LibraryModel.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\nuget.librarymodel.dll
+++NuGet.Packaging.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\nuget.packaging.dll
+++NuGet.ProjectModel.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\nuget.projectmodel.dll
+++NuGet.Protocol.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\nuget.protocol.dll
+++NuGet.Versioning.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\nuget.versioning.dll
+++Swashbuckle.AspNetCore.Swagger.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\swashbuckle.aspnetcore.swagger.dll
+++Swashbuckle.AspNetCore.SwaggerGen.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\swashbuckle.aspnetcore.swaggergen.dll
+++Swashbuckle.AspNetCore.SwaggerUI.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\swashbuckle.aspnetcore.swaggerui.dll
+++System.Composition.AttributedModel.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\system.composition.attributedmodel.dll
+++System.Composition.Convention.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\system.composition.convention.dll
+++System.Composition.Hosting.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\system.composition.hosting.dll
+++System.Composition.Runtime.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\system.composition.runtime.dll
+++System.Composition.TypedParts.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\system.composition.typedparts.dll
+++System.Configuration.ConfigurationManager.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\system.configuration.configurationmanager.dll
+++System.Diagnostics.DiagnosticSource.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\system.diagnostics.diagnosticsource.dll
+++System.Drawing.Common.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\system.drawing.common.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\unix\lib\net6.0\system.drawing.common.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\win\lib\net6.0\system.drawing.common.dll
+++System.IdentityModel.Tokens.Jwt.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\system.identitymodel.tokens.jwt.dll
+++System.Reflection.MetadataLoadContext.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\system.reflection.metadataloadcontext.dll
+++System.Runtime.Caching.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\system.runtime.caching.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\system.runtime.caching.dll
+++System.Security.Cryptography.ProtectedData.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\system.security.cryptography.protecteddata.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\win\lib\net6.0\system.security.cryptography.protecteddata.dll
+++System.Security.Permissions.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\system.security.permissions.dll
+++System.Windows.Extensions.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\system.windows.extensions.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\win\lib\net6.0\system.windows.extensions.dll
+++Humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\af\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ar\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\az\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\bg\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\bn-bd\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\cs\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\da\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\de\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\el\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\es\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\fa\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\fi-fi\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\fr\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\fr-be\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\he\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\hr\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\hu\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\hy\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\id\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\is\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\it\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ja\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ko-kr\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ku\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\lv\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ms-my\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\mt\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\nb\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\nb-no\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\nl\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\pl\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\pt\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ro\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ru\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\sk\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\sl\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\sr\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\sr-latn\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\sv\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\th-th\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\tr\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\uk\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\uz-cyrl-uz\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\uz-latn-uz\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\vi\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\zh-cn\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\zh-hans\humanizer.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\zh-hant\humanizer.resources.dll
+++Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.features.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.features.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\es\microsoft.codeanalysis.csharp.features.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\fr\microsoft.codeanalysis.csharp.features.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\it\microsoft.codeanalysis.csharp.features.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ja\microsoft.codeanalysis.csharp.features.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ko\microsoft.codeanalysis.csharp.features.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\pl\microsoft.codeanalysis.csharp.features.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\pt-br\microsoft.codeanalysis.csharp.features.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ru\microsoft.codeanalysis.csharp.features.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\tr\microsoft.codeanalysis.csharp.features.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.csharp.features.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.csharp.features.resources.dll
+++Microsoft.CodeAnalysis.CSharp.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\es\microsoft.codeanalysis.csharp.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\fr\microsoft.codeanalysis.csharp.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\it\microsoft.codeanalysis.csharp.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ja\microsoft.codeanalysis.csharp.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ko\microsoft.codeanalysis.csharp.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\pl\microsoft.codeanalysis.csharp.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\pt-br\microsoft.codeanalysis.csharp.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ru\microsoft.codeanalysis.csharp.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\tr\microsoft.codeanalysis.csharp.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.csharp.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.csharp.resources.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\es\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\fr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\it\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ja\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ko\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\pl\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\pt-br\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ru\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\tr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.csharp.workspaces.resources.dll
+++Microsoft.CodeAnalysis.Features.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\cs\microsoft.codeanalysis.features.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\de\microsoft.codeanalysis.features.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\es\microsoft.codeanalysis.features.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\fr\microsoft.codeanalysis.features.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\it\microsoft.codeanalysis.features.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ja\microsoft.codeanalysis.features.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ko\microsoft.codeanalysis.features.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\pl\microsoft.codeanalysis.features.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\pt-br\microsoft.codeanalysis.features.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ru\microsoft.codeanalysis.features.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\tr\microsoft.codeanalysis.features.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.features.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.features.resources.dll
+++Microsoft.CodeAnalysis.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\cs\microsoft.codeanalysis.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\de\microsoft.codeanalysis.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\es\microsoft.codeanalysis.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\fr\microsoft.codeanalysis.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\it\microsoft.codeanalysis.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ja\microsoft.codeanalysis.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ko\microsoft.codeanalysis.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\pl\microsoft.codeanalysis.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\pt-br\microsoft.codeanalysis.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ru\microsoft.codeanalysis.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\tr\microsoft.codeanalysis.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.resources.dll
+++Microsoft.CodeAnalysis.Scripting.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\cs\microsoft.codeanalysis.scripting.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\de\microsoft.codeanalysis.scripting.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\es\microsoft.codeanalysis.scripting.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\fr\microsoft.codeanalysis.scripting.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\it\microsoft.codeanalysis.scripting.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ja\microsoft.codeanalysis.scripting.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ko\microsoft.codeanalysis.scripting.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\pl\microsoft.codeanalysis.scripting.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\pt-br\microsoft.codeanalysis.scripting.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ru\microsoft.codeanalysis.scripting.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\tr\microsoft.codeanalysis.scripting.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.scripting.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.scripting.resources.dll
+++Microsoft.CodeAnalysis.Workspaces.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\cs\microsoft.codeanalysis.workspaces.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\de\microsoft.codeanalysis.workspaces.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\es\microsoft.codeanalysis.workspaces.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\fr\microsoft.codeanalysis.workspaces.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\it\microsoft.codeanalysis.workspaces.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ja\microsoft.codeanalysis.workspaces.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ko\microsoft.codeanalysis.workspaces.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\pl\microsoft.codeanalysis.workspaces.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\pt-br\microsoft.codeanalysis.workspaces.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\ru\microsoft.codeanalysis.workspaces.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\tr\microsoft.codeanalysis.workspaces.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.workspaces.resources.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.workspaces.resources.dll
+++unix
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\unix\
+++win
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\win\
+++win-arm
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\win-arm\
+++win-arm64
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\win-arm64\
+++win-x64
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\win-x64\
+++win-x86
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\win-x86\
+++native
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\win-arm\native\
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\win-arm64\native\
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\win-x64\native\
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\win-x86\native\
+++netcoreapp3.0
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.0\
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\
+++netcoreapp3.1
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\
+++netstandard2.0
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\
+++Microsoft.Data.SqlClient.SNI.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.dll
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\bin\debug\net6.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.dll
+++obj
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\
+++FinalProjectPWI.csproj.nuget.dgspec.json
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\finalprojectpwi.csproj.nuget.dgspec.json
+++FinalProjectPWI.csproj.nuget.g.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\finalprojectpwi.csproj.nuget.g.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\finalprojectpwi.csproj.nuget.g.props
+++FinalProjectPWI.csproj.nuget.g.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\finalprojectpwi.csproj.nuget.g.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\finalprojectpwi.csproj.nuget.g.targets
+++project.assets.json
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\project.assets.json
+++project.nuget.cache
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\project.nuget.cache
+++staticwebassets.pack.sentinel
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\staticwebassets.pack.sentinel
+++ref
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\ref\
+++refint
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\refint\
+++scopedcss
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\scopedcss\
+++staticwebassets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\staticwebassets\
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\.netcoreapp,version=v6.0.assemblyattributes.cs
+++apphost.exe
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\apphost.exe
+++FinalProjectPWI.AssemblyInfo.cs
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\finalprojectpwi.assemblyinfo.cs
+++FinalProjectPWI.AssemblyInfoInputs.cache
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\finalprojectpwi.assemblyinfoinputs.cache
+++FinalProjectPWI.assets.cache
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\finalprojectpwi.assets.cache
+++FinalProjectPWI.csproj.AssemblyReference.cache
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\finalprojectpwi.csproj.assemblyreference.cache
+++FinalProjectPWI.csproj.BuildWithSkipAnalyzers
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\finalprojectpwi.csproj.buildwithskipanalyzers
+++FinalProjectPWI.csproj.CopyComplete
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\finalprojectpwi.csproj.copycomplete
+++FinalProjectPWI.csproj.CoreCompileInputs.cache
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\finalprojectpwi.csproj.corecompileinputs.cache
+++FinalProjectPWI.csproj.FileListAbsolute.txt
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\finalprojectpwi.csproj.filelistabsolute.txt
+++FinalProjectPWI.GeneratedMSBuildEditorConfig.editorconfig
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\finalprojectpwi.generatedmsbuildeditorconfig.editorconfig
+++FinalProjectPWI.genruntimeconfig.cache
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\finalprojectpwi.genruntimeconfig.cache
+++FinalProjectPWI.GlobalUsings.g.cs
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\finalprojectpwi.globalusings.g.cs
+++FinalProjectPWI.MvcApplicationPartsAssemblyInfo.cache
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\finalprojectpwi.mvcapplicationpartsassemblyinfo.cache
+++FinalProjectPWI.MvcApplicationPartsAssemblyInfo.cs
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\finalprojectpwi.mvcapplicationpartsassemblyinfo.cs
+++FinalProjectPWI.RazorAssemblyInfo.cache
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\finalprojectpwi.razorassemblyinfo.cache
+++FinalProjectPWI.RazorAssemblyInfo.cs
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\finalprojectpwi.razorassemblyinfo.cs
+++project.razor.json
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\project.razor.json
+++staticwebassets.build.json
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\staticwebassets.build.json
+++staticwebassets.development.json
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\staticwebassets.development.json
+++bundle
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\scopedcss\bundle\
+++projectbundle
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\scopedcss\projectbundle\
+++FinalProjectPWI.styles.css
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\scopedcss\bundle\finalprojectpwi.styles.css
+++FinalProjectPWI.bundle.scp.css
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\scopedcss\projectbundle\finalprojectpwi.bundle.scp.css
+++_Layout.cshtml.rz.scp.css
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\obj\debug\net6.0\scopedcss\views\shared\_layout.cshtml.rz.scp.css
+++serviceDependencies.local.json.user
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\properties\servicedependencies.local.json.user
+++Imports
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:>1041
+++Sdk.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\sdk\sdk.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\sdk\sdk.targets
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\sdk\sdk.props
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
+++Microsoft.Common.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Sdk.Razor.CurrentVersion.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
+++Microsoft.NET.Sdk.Publish.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Sdk.Razor.CurrentVersion.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
+++Microsoft.NuGet.ImportBefore.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\sdk\sdk.razor.staticassets.projectsystem.props
+++Microsoft.TypeScript.Default.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.defaultitems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.beforecommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.codegeneration.targets
+++Microsoft.NET.Sdk.Razor.SourceGenerators.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.sourcegenerators.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.staticwebassets.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.scopedcss.targets
+++Microsoft.NET.Sdk.Razor.JSModules.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.jsmodules.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.generateassemblyinfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.mvcapplicationpartsdiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\razor\microsoft.net.sdk.razor.designtime.targets
+++Microsoft.TypeScript.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.dotnetcore.targets
+++Microsoft.Web.Designtime.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.designtime.targets
+++Default.pubxml
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\publishprofiles\default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\computetargets\microsoft.net.sdk.publish.computefiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.filterfiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.copyfiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\transformtargets\microsoft.net.sdk.publish.transformfiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\publishtargets\microsoft.net.sdk.publish.filesystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\dotnetclitooltargets\microsoft.net.sdk.dotnetclitool.targets
+++Microsoft.Extensions.ApiDescription.Server.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\.nuget\packages\microsoft.extensions.apidescription.server\6.0.5\build\microsoft.extensions.apidescription.server.props
+++Swashbuckle.AspNetCore.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\.nuget\packages\swashbuckle.aspnetcore\6.5.0\build\swashbuckle.aspnetcore.props
+++Microsoft.EntityFrameworkCore.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\.nuget\packages\microsoft.entityframeworkcore\6.0.18\buildtransitive\net6.0\microsoft.entityframeworkcore.props
+++Microsoft.EntityFrameworkCore.Design.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\.nuget\packages\microsoft.entityframeworkcore.design\6.0.18\build\net6.0\microsoft.entityframeworkcore.design.props
+++Microsoft.AspNetCore.Identity.UI.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\.nuget\packages\microsoft.aspnetcore.identity.ui\6.0.4\build\microsoft.aspnetcore.identity.ui.props
+++Microsoft.NuGet.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android)
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios)
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst)
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos)
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui)
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos)
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten)
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain)
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++Microsoft.NET.ILLink.Tasks.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++FinalProjectPWI.csproj.user
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\finalprojectpwi.csproj.user
+++Microsoft.NET.props
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.ImportAfter.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.visualstudio.azure.fabric.serviceproject.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Microsoft.Extensions.ApiDescription.Server.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\.nuget\packages\microsoft.extensions.apidescription.server\6.0.5\build\microsoft.extensions.apidescription.server.targets
+++Microsoft.AspNetCore.Identity.UI.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\.nuget\packages\microsoft.aspnetcore.identity.ui\6.0.4\buildtransitive\microsoft.aspnetcore.identity.ui.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\.nuget\packages\microsoft.aspnetcore.identity.ui\6.0.4\build\microsoft.aspnetcore.identity.ui.targets
+++Microsoft.Docker.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\service fabric tools\microsoft.visualstudio.azure.fabric.serviceproject.targets
+++Microsoft.Web.IISSupport.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.iissupport.targets
+++Microsoft.AspNetCore.StaticWebAssets.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\.nuget\packages\microsoft.aspnetcore.identity.ui\6.0.4\build\microsoft.aspnetcore.staticwebassets.targets
+++Microsoft.AspNetCore.StaticWebAssets.V5.targets
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\.nuget\packages\microsoft.aspnetcore.identity.ui\6.0.4\build\microsoft.aspnetcore.staticwebassets.v5.targets
+++_CookieConsentPartial.cshtml
+i:{295dbd8c-8d71-476d-8f54-f8085d97a290}:c:\users\pc computer\desktop\finalny projekt\finalprojectpwiapp\finalprojectpwi\views\shared\_cookieconsentpartial.cshtml

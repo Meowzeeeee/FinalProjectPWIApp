@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
-using FinalProjectPWI.Models;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace FinalProjectPWI.Data
 {
     public class PetListDbContext : DbContext
     {
-        public PetListDbContext (DbContextOptions<PetListDbContext> options)
+        public PetListDbContext(DbContextOptions<PetListDbContext> options)
             : base(options)
         {
         }

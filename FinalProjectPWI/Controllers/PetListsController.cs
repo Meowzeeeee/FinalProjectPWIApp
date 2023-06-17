@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
-using Microsoft.EntityFrameworkCore;
-using FinalProjectPWI.Data;
+﻿using FinalProjectPWI.Data;
 using FinalProjectPWI.Models;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace FinalProjectPWI.Controllers
 {
@@ -22,9 +17,9 @@ namespace FinalProjectPWI.Controllers
         // GET: PetLists
         public async Task<IActionResult> Index()
         {
-              return _context.PetList != null ? 
-                          View(await _context.PetList.ToListAsync()) :
-                          Problem("Entity set 'PetListDbContext.PetList'  is null.");
+            return _context.PetList != null ?
+                        View(await _context.PetList.ToListAsync()) :
+                        Problem("Entity set 'PetListDbContext.PetList'  is null.");
         }
 
         // GET: PetLists/Details/5
@@ -150,14 +145,14 @@ namespace FinalProjectPWI.Controllers
             {
                 _context.PetList.Remove(petList);
             }
-            
+
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
         private bool PetListExists(int id)
         {
-          return (_context.PetList?.Any(e => e.Id == id)).GetValueOrDefault();
+            return (_context.PetList?.Any(e => e.Id == id)).GetValueOrDefault();
         }
     }
 }

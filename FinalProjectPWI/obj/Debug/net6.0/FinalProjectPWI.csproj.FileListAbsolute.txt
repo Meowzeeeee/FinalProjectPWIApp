@@ -255,3 +255,5 @@ C:\Users\PC COMPUTER\Desktop\Finalny Projekt\FinalProjectPWIApp\FinalProjectPWI\
 C:\Users\PC COMPUTER\Desktop\Finalny Projekt\FinalProjectPWIApp\FinalProjectPWI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\PC COMPUTER\Desktop\Finalny Projekt\FinalProjectPWIApp\FinalProjectPWI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\PC COMPUTER\Desktop\Finalny Projekt\FinalProjectPWIApp\FinalProjectPWI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC COMPUTER\Desktop\Finalny Projekt\FinalProjectPWIApp\FinalProjectPWI\bin\Debug\net6.0\IMG\lunaPC.jpg
+C:\Users\PC COMPUTER\Desktop\Finalny Projekt\FinalProjectPWIApp\FinalProjectPWI\bin\Debug\net6.0\IMG\luna_shook.jpg
