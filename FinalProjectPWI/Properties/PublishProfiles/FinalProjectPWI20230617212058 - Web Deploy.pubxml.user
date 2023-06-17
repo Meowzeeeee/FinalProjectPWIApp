@@ -7,6 +7,14 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAepRQ5UpPOUCYVOveySu7SAAAAAACAAAAAAAQZgAAAAEAACAAAAAcjdbXXm7fhzVnKPr5oWM57YfJUjwrf8c7CiW2Y8ACmQAAAAAOgAAAAAIAACAAAABrBwMPWQ+auRsBVUUE2NglIq6NEt97WCRtgbz6kP3wKIAAAABTd8uSWG1hQ3Cy5OiSxygXMArFzkUV/1rZrFkNkLsmYqMe/tkW8gWRW7T+JYjMWSDv5CElTkdU0uYzGB64RaqAIkvW2WrcUu2Bj5bi9bZNYhkqM/+jimDEhA09RtoQIrhndWMB7c52PpHp0/Nlsb9aZsVdu9VYFoTEDlEchW4jK0AAAAA0zoJMZuTHsB04N8CLtJpEDYgJDMkk/ASsWqi8jsmaLtaFLF+fyTSpvHRIawnxuAQhy3zqjaqfdYliCPNZ9vug</EncryptedPassword>
-    <History>True|2023-06-17T19:36:14.5218152Z;</History>
+    <History>True|2023-06-17T21:17:02.3543948Z;True|2023-06-17T23:14:10.7885653+02:00;True|2023-06-17T23:11:56.3666342+02:00;True|2023-06-17T21:36:14.5218152+02:00;</History>
   </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=tcp:finalprojectpwidbserverpets.database.windows.net,1433%3bInitial Catalog=FinalProjectPWI_db%3bUser Id=mszewczyk%40finalprojectpwidbserverpets%3bPassword=Darcy1Witch</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="PetListDbContext">
+      <Value>Data Source=tcp:finalprojectpwidbserverpets.database.windows.net,1433%3bInitial Catalog=FinalProjectPWI_db%3bUser Id=mszewczyk%40finalprojectpwidbserverpets%3bPassword=Darcy1Witch</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
 </Project>

@@ -7,9 +7,23 @@
     "apis1": {
       "restored": true,
       "restoreTime": "2023-06-17T19:25:42.8029662Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2023-06-17T21:11:27.3050574Z"
     }
   },
   "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "f705a8d8-ac98-4425-ab91-6e8f82031462"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "FinalProjectPWI20230617212058ResourceGroup"
+    },
     "mssql2.resourceGroupName": {
       "Name": "mssql2.resourceGroupName",
       "Type": "resourceGroup",

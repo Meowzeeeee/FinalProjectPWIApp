@@ -9,6 +9,12 @@
       "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/finalprojectpwidbserverpets/databases/FinalProjectPWI_db",
       "type": "mssql.azure",
       "connectionId": "ConnectionStrings:PetListDbContext"
+    },
+    "mssql1": {
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/finalprojectpwidbserverpets/databases/FinalProjectPWI_db2",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:DefaultConnection"
     }
   }
 }
