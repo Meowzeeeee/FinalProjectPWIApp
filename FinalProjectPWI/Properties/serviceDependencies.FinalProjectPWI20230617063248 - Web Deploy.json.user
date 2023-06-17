@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "mssql2": {
+      "restored": true,
+      "restoreTime": "2023-06-17T04:45:13.3099878Z"
+    },
+    "apis1": {
+      "restored": true,
+      "restoreTime": "2023-06-17T04:39:53.0768122Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2023-06-17T04:46:21.5691535Z"
+    }
+  },
+  "parameters": {
+    "apis1.resourceGroupName": {
+      "Name": "apis1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "FinalProjectPWI20230617063248ResourceGroup"
+    },
+    "apis1.subscriptionId": {
+      "Name": "apis1.subscriptionId",
+      "Type": "subscription",
+      "Value": "f705a8d8-ac98-4425-ab91-6e8f82031462"
+    }
+  }
+}

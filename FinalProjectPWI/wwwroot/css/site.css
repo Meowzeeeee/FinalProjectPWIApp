@@ -101,3 +101,27 @@ body {
         color: gray;
         text-decoration: underline;
     }
+
+.pudelko {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+.card {
+    flex: 1 1 150px;
+    margin: 5px;
+}
+
+body {
+    font-family: Helvetica, Sans-Serif;
+    color: gray;
+}
+
+h1 {
+    font-family: 'MADE Gentle', sans-serif;
+    color: #d387ab !important;
+    font-size: 24px;
+}
+  

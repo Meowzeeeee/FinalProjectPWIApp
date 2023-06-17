@@ -15,5 +15,6 @@
     <WebStackScaffolding_DbContextTypeFullName>FinalProjectPWI.Data.PetListDbContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
+    <NameOfLastUsedPublishProfile>C:\Users\PC COMPUTER\Desktop\Finalny Projekt\FinalProjectPWIApp\FinalProjectPWI\Properties\PublishProfiles\FinalProjectPWI20230617063248 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
