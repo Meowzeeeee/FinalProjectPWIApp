@@ -78,7 +78,7 @@ body {
         margin-left: auto;
         margin-right: auto;
         border: none;
-        background-color: hotpink;
+        background-color: #d387ab;
         padding: 10px 50px;
         margin-top: -5px;
         color: white;
@@ -101,3 +101,53 @@ body {
         color: gray;
         text-decoration: underline;
     }
+
+.pudelko {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+.card {
+    flex: 1 1 150px;
+    margin: 5px;
+}
+
+body {
+    font-family: Helvetica, Sans-Serif;
+    color: gray;
+}
+
+h1 {
+    font-family: 'MADE Gentle', sans-serif;
+    color: #d387ab !important;
+    font-size: 24px;
+}
+
+a {
+    color: #d387ab !important;
+    font-family: 'MADE Gentle', sans-serif;
+    text-decoration: none;
+}
+
+a:hover {
+    color: pink !important;
+    font-family: 'MADE Gentle', sans-serif;
+    text-decoration: none;
+}
+
+.btn {
+    background-color: #e899dc;
+    background-image: linear-gradient(315deg, #e899dc 0%, #d387ab 74%);
+    color: white !important;
+}
+
+.btn-link {
+    color: white !important;
+}
+
+.img {
+    max-width: 100%;
+    height: auto;
+}

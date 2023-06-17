@@ -1,7 +1,5 @@
 C:\Users\PC COMPUTER\Desktop\Finalny Projekt\FinalProjectPWIApp\FinalProjectPWI\bin\Release\net6.0\appsettings.Development.json
 C:\Users\PC COMPUTER\Desktop\Finalny Projekt\FinalProjectPWIApp\FinalProjectPWI\bin\Release\net6.0\appsettings.json
-C:\Users\PC COMPUTER\Desktop\Finalny Projekt\FinalProjectPWIApp\FinalProjectPWI\bin\Release\net6.0\IMG\lunaPC.jpg
-C:\Users\PC COMPUTER\Desktop\Finalny Projekt\FinalProjectPWIApp\FinalProjectPWI\bin\Release\net6.0\IMG\luna_shook.jpg
 C:\Users\PC COMPUTER\Desktop\Finalny Projekt\FinalProjectPWIApp\FinalProjectPWI\bin\Release\net6.0\FinalProjectPWI.staticwebassets.runtime.json
 C:\Users\PC COMPUTER\Desktop\Finalny Projekt\FinalProjectPWIApp\FinalProjectPWI\bin\Release\net6.0\FinalProjectPWI.exe
 C:\Users\PC COMPUTER\Desktop\Finalny Projekt\FinalProjectPWIApp\FinalProjectPWI\bin\Release\net6.0\FinalProjectPWI.deps.json
@@ -257,3 +255,6 @@ C:\Users\PC COMPUTER\Desktop\Finalny Projekt\FinalProjectPWIApp\FinalProjectPWI\
 C:\Users\PC COMPUTER\Desktop\Finalny Projekt\FinalProjectPWIApp\FinalProjectPWI\obj\Release\net6.0\FinalProjectPWI.pdb
 C:\Users\PC COMPUTER\Desktop\Finalny Projekt\FinalProjectPWIApp\FinalProjectPWI\obj\Release\net6.0\FinalProjectPWI.genruntimeconfig.cache
 C:\Users\PC COMPUTER\Desktop\Finalny Projekt\FinalProjectPWIApp\FinalProjectPWI\obj\Release\net6.0\ref\FinalProjectPWI.dll
+C:\Users\PC COMPUTER\Desktop\Finalny Projekt\FinalProjectPWIApp\FinalProjectPWI\bin\Release\net6.0\Views\IMG\sakura.png
+C:\Users\PC COMPUTER\Desktop\Finalny Projekt\FinalProjectPWIApp\FinalProjectPWI\bin\Release\net6.0\Views\IMG\lunaPC.jpg
+C:\Users\PC COMPUTER\Desktop\Finalny Projekt\FinalProjectPWIApp\FinalProjectPWI\bin\Release\net6.0\Views\IMG\luna_shook.jpg

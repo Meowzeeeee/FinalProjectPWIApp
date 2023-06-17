@@ -13,8 +13,8 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="6.0.4" />
-    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.4" />
-    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.18" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.18" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.18" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.18">
       <PrivateAssets>all</PrivateAssets>
@@ -30,5 +30,22 @@
 		<Content Include="Views\IMG\*">
 			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
 		</Content>
+	</ItemGroup>
+
+
+
+	<ItemGroup>
+	  <None Remove="Views\IMG\sakura.png" />
+	</ItemGroup>
+
+
+
+	<ItemGroup>
+	  <Content Update="Views\IMG\lunaPC.jpg">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </Content>
+	  <Content Update="Views\IMG\luna_shook.jpg">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </Content>
 	</ItemGroup>
 	</Project>
